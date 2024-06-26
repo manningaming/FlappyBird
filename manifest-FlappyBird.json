@@ -48,10 +48,10 @@
   ],
   "assets": {
     "images": {
-      "bird": "assets/images/bird.png",
-      "pipe": "assets/images/pipe.png",
-      "backgroundDay": "assets/images/background_day.png",
-      "backgroundNight": "assets/images/background_night.png"
+      "bird": "img/bird.png",
+      "pipe": "img/pipe.png",
+      "backgroundDay": "img/background_day.png",
+      "backgroundNight": "img/background_night.png"
     },
   
   }
